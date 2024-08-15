@@ -1,0 +1,804 @@
+Name|Code|ReleaseDate|CardCount|
+Secret Lair Showdown|slp|2023-02-17|3|
+Phyrexia: All Will Be One Commander|onc|2023-02-03|0|
+Phyrexia: All Will Be One|one|2023-02-03|44|
+Dominaria Remastered|dmr|2023-01-13|457|
+Regional Championship Qualifiers 2023|pr23|2023-01-01|3|
+Judge Gift Cards 2023|p23|2023-01-01|3|
+Alchemy: The Brothers' War|ybro|2022-12-13|30|
+Explorer Anthology 2|ea2|2022-12-13|25|
+Starter Commander Deck Tokens|tscd|2022-12-02|0|
+Starter Commander Decks|scd|2022-12-02|352|
+Jumpstart 2022 Front Cards|fj22|2022-12-02|5|
+Jumpstart 2022|j22|2022-12-02|835|
+30th Anniversary Tokens|t30a|2022-11-28|16|
+30th Anniversary Edition|30a|2022-11-28|594|
+Eternal Weekend 2022|pewk|2022-11-26|2|
+The Brothers' War Commander|brc|2022-11-18|209|
+The Brothers' War Retro Artifacts|brr|2022-11-18|126|
+The Brothers' War Promos|pbro|2022-11-18|180|
+Transformers Tokens|tbot|2022-11-18|2|
+Transformers|bot|2022-11-18|29|
+The Brothers' War Tokens|tbro|2022-11-18|12|
+The Brothers' War Commander Tokens|tbrc|2022-11-18|14|
+The Brothers' War Art Series|abro|2022-11-18|81|
+The Brothers' War|bro|2022-11-18|387|
+Pioneer Challenger Decks 2022|q08|2022-11-04|0|
+Secret Lair 30th Anniversary Countdown Kit|slc|2022-11-01|31|
+Game Night: Free-for-All Tokens|tgn3|2022-10-14|10|
+Game Night: Free-for-All|gn3|2022-10-14|135|
+The List (Unfinity Foil Edition)|uplist|2022-10-07|62|
+Unfinity Tokens|tunf|2022-10-07|14|
+Unfinity Sticker Sheets|sunf|2022-10-07|48|
+Unfinity|unf|2022-10-07|638|
+Warhammer 40,000 Tokens|t40k|2022-10-07|31|
+Warhammer 40,000 Commander|40k|2022-10-07|617|
+Alchemy: Dominaria|ydmu|2022-10-05|39|
+Regional Championship Qualifiers 2022|prcq|2022-10-01|3|
+30th Anniversary History Promos|p30h|2022-09-09|10|
+Dominaria United Promos|pdmu|2022-09-09|160|
+Dominaria United Tokens|tdmu|2022-09-09|26|
+Dominaria United Commander|dmc|2022-09-09|240|
+Dominaria United Commander Tokens|tdmc|2022-09-09|12|
+Dominaria United Japanese Promo Tokens|pdwa|2022-09-09|5|
+Dominaria United Art Series|admu|2022-09-09|81|
+Dominaria United|dmu|2022-09-09|436|
+30th Anniversary Play Promos|p30a|2022-09-02|32|
+Summer Vacation Promos 2022|psvc|2022-08-01|3|
+2021 Heroes of the Realm|ph21|2022-08-01|2|
+Historic Anthology 6|ha6|2022-07-28|20|
+Explorer Anthology 1|ea1|2022-07-28|20|
+Store Championships 2022|sch|2022-07-09|6|
+Double Masters 2022 Tokens|t2x2|2022-07-08|24|
+Double Masters 2022|2x2|2022-07-08|579|
+Alchemy Horizons: Baldur's Gate|hbg|2022-07-07|436|
+Love Your LGS 2022|plg22|2022-07-01|2|
+Battle for Baldur's Gate Promos|pclb|2022-06-10|99|
+Commander Legends: Battle for Baldur's Gate Minigames|mclb|2022-06-10|3|
+Commander Legends: Battle for Baldur's Gate|clb|2022-06-10|936|
+Battle for Baldur's Gate Art Series|aclb|2022-06-10|81|
+Battle for Baldur's Gate Tokens|tclb|2022-06-10|50|
+Alchemy: New Capenna|ysnc|2022-06-02|30|
+Streets of New Capenna Southeast Asia Tokens|ptsnc|2022-04-30|6|
+Streets of New Capenna Tokens|tsnc|2022-04-29|17|
+Streets of New Capenna|snc|2022-04-29|512|
+New Capenna Commander|ncc|2022-04-29|447|
+Streets of New Capenna Promos|psnc|2022-04-29|160|
+Streets of New Capenna Minigames|msnc|2022-04-29|3|
+New Capenna Art Series|asnc|2022-04-29|81|
+Heads I Win, Tails You Lose|phed|2022-04-22|82|
+New Capenna Commander Tokens|tncc|2022-04-20|36|
+New Capenna Commander Promos|pncc|2022-04-09|76|
+Game Day Promos|gdy|2022-04-08|9|
+Challenger Decks 2022|q07|2022-04-01|1|
+Alchemy: Kamigawa|yneo|2022-03-17|30|
+Wizards Play Network 2022|pw22|2022-03-05|6|
+Universes Within|slx|2022-03-03|17|
+Year of the Tiger 2022|pl22|2022-02-25|5|
+Kamigawa: Neon Dynasty Promos|pneo|2022-02-18|145|
+Kamigawa: Neon Destiny Minigames|mneo|2022-02-18|3|
+Kamigawa: Neon Dynasty Substitute Cards|sneo|2022-02-18|9|
+Kamigawa: Neon Dynasty|neo|2022-02-18|514|
+Kamigawa: Neon Dynasty Tokens|tneo|2022-02-18|19|
+Neon Dynasty Commander|nec|2022-02-18|179|
+Neon Dynasty Commander Tokens|tnec|2022-02-18|12|
+Neon Dynasty Art Series|aneo|2022-02-18|81|
+Commander Collection: Black|cc2|2022-01-28|9|
+Innistrad: Double Feature|dbl|2022-01-28|535|
+Judge Gift Cards 2022|p22|2022-01-01|10|
+Alchemy: Innistrad|ymid|2021-12-09|63|
+Innistrad: Crimson Vow Promos|pvow|2021-11-19|108|
+Innistrad: Crimson Vow Tokens|tvow|2021-11-19|21|
+Crimson Vow Commander Display Commanders|ovoc|2021-11-19|2|
+Crimson Vow Commander Tokens|tvoc|2021-11-19|6|
+Innistrad: Crimson Vow Minigames|mvow|2021-11-19|3|
+Innistrad: Crimson Vow Substitute Cards|svow|2021-11-19|9|
+Innistrad: Crimson Vow|vow|2021-11-19|417|
+Crimson Vow Art Series|avow|2021-11-19|81|
+Crimson Vow Commander|voc|2021-11-19|188|
+Pioneer Challenger Decks 2021|q06|2021-10-15|10|
+Innistrad: Midnight Hunt Substitute Cards|smid|2021-09-24|9|
+Midnight Hunt Commander|mic|2021-09-24|187|
+Innistrad: Midnight Hunt Tokens|tmid|2021-09-24|19|
+Midnight Hunt Commander Tokens|tmic|2021-09-24|11|
+Innistrad: Midnight Hunt Promos|pmid|2021-09-24|152|
+Midnight Hunt Commander Display Commanders|omic|2021-09-24|2|
+Midnight Hunt Art Series|amid|2021-09-24|81|
+Innistrad: Midnight Hunt|mid|2021-09-24|396|
+Jumpstart: Historic Horizons|j21|2021-08-26|389|
+Mystery Booster Playtest Cards 2021|cmb2|2021-08-20|121|
+2020 Heroes of the Realm|ph20|2021-08-01|3|
+Adventures in the Forgotten Realms Promos|pafr|2021-07-23|240|
+Forgotten Realms Commander Display Commanders|oafc|2021-07-23|4|
+Adventures in the Forgotten Realms Art Series|aafr|2021-07-23|81|
+Forgotten Realms Commander|afc|2021-07-23|331|
+Adventures in the Forgotten Realms Tokens|tafr|2021-07-23|22|
+Forgotten Realms Commander Tokens|tafc|2021-07-23|13|
+Adventures in the Forgotten Realms Minigames|mafr|2021-07-23|5|
+Adventures in the Forgotten Realms|afr|2021-07-23|422|
+Love Your LGS 2021|plg21|2021-06-22|10|
+Modern Horizons 2 Promos|pmh2|2021-06-18|102|
+Modern Horizons 2 Minigames|mmh2|2021-06-18|5|
+Modern Horizons 2 Art Series|amh2|2021-06-18|162|
+Wizards Play Network 2021|pw21|2021-06-18|6|
+Modern Horizons 1 Timeshifts|h1r|2021-06-18|40|
+Modern Horizons 2 Tokens|tmh2|2021-06-18|21|
+Modern Horizons 2|mh2|2021-06-18|494|
+Historic Anthology 5|ha5|2021-05-27|25|
+Strixhaven: School of Mages Promos|pstx|2021-04-23|164|
+Strixhaven: School of Mages Tokens|tstx|2021-04-23|9|
+Commander 2021 Tokens|tc21|2021-04-23|30|
+Strixhaven: School of Mages Substitute Cards|sstx|2021-04-23|9|
+Strixhaven: School of Mages Minigames|mstx|2021-04-23|5|
+Commander 2021|c21|2021-04-23|409|
+Commander 2021 Display Commanders|oc21|2021-04-23|5|
+Strixhaven Mystical Archive|sta|2021-04-23|126|
+Strixhaven: School of Mages|stx|2021-04-23|393|
+Strixhaven Art Series|astx|2021-04-23|162|
+Time Spiral Remastered|tsr|2021-03-19|411|
+Time Spiral Remastered Tokens|ttsr|2021-03-19|15|
+Historic Anthology 4|ha4|2021-03-11|25|
+Kaldheim Promos|pkhm|2021-02-05|153|
+Kaldheim Minigames|mkhm|2021-02-05|5|
+Kaldheim Substitute Cards|skhm|2021-02-05|9|
+Kaldheim Art Series|akhm|2021-02-05|81|
+Kaldheim Commander Tokens|tkhc|2021-02-05|8|
+Kaldheim Commander|khc|2021-02-05|119|
+Kaldheim Tokens|tkhm|2021-02-05|23|
+Kaldheim|khm|2021-02-05|426|
+Year of the Ox 2021|pl21|2021-01-25|6|
+MagicFest 2021|pf21|2021-01-01|1|
+Judge Gift Cards 2021|pj21|2021-01-01|10|
+Commander Collection: Green|cc1|2020-12-04|8|
+Commander Legends|cmr|2020-11-20|718|
+Commander Legends Tokens|tcmr|2020-11-20|23|
+Kaladesh Remastered|klr|2020-11-12|302|
+The List|plist|2020-09-26|964|
+Zendikar Rising Promos|pznr|2020-09-25|152|
+Zendikar Rising Commander Tokens|tznc|2020-09-25|11|
+Zendikar Rising|znr|2020-09-25|408|
+Zendikar Rising Art Series|aznr|2020-09-25|81|
+Zendikar Rising Tokens|tznr|2020-09-25|12|
+Zendikar Rising Substitute Cards|sznr|2020-09-25|9|
+Zendikar Rising Commander|znc|2020-09-25|142|
+Zendikar Rising Expeditions|zne|2020-09-25|30|
+Zendikar Rising Minigames|mznr|2020-09-25|5|
+Arena Beginner Set|anb|2020-08-13|118|
+Amonkhet Remastered|akr|2020-08-13|339|
+Double Masters|2xm|2020-08-07|384|
+Double Masters Tokens|t2xm|2020-08-07|31|
+2019 Heroes of the Realm|ph19|2020-08-01|7|
+Jumpstart Arena Exclusives|ajmp|2020-07-17|18|
+Jumpstart|jmp|2020-07-17|497|
+Core Set 2021 Promos|pm21|2020-07-03|136|
+Core Set 2021 Tokens|tm21|2020-07-03|20|
+Core Set 2021|m21|2020-07-03|397|
+Signature Spellbook: Chandra|ss3|2020-06-26|8|
+Jumpstart Front Cards|fjmp|2020-06-18|46|
+Secret Lair: Ultimate Edition|slu|2020-05-29|16|
+Historic Anthology 3|ha3|2020-05-21|27|
+Love Your LGS 2020|plg20|2020-05-18|2|
+Ikoria: Lair of Behemoths Promos|piko|2020-04-24|136|
+Ikoria: Lair of Behemoths Tokens|tiko|2020-04-24|15|
+Ikoria: Lair of Behemoths|iko|2020-04-24|390|
+Commander 2020 Oversized|oc20|2020-04-17|5|
+Commander 2020 Tokens|tc20|2020-04-17|21|
+Commander 2020|c20|2020-04-17|322|
+Historic Anthology 2|ha2|2020-03-12|25|
+Mystery Booster Retail Edition Foils|fmb1|2020-03-08|121|
+Unsanctioned Tokens|tund|2020-02-29|6|
+Unsanctioned|und|2020-02-29|96|
+Theros Beyond Death Promos|pthb|2020-01-24|136|
+Theros Beyond Death Tokens|tthb|2020-01-24|14|
+Theros Beyond Death|thb|2020-01-24|358|
+MagicFest 2020|pf20|2020-01-01|6|
+Judge Gift Cards 2020|j20|2020-01-01|10|
+Secret Lair Drop|sld|2019-12-02|852|
+Historic Anthology 1|ha1|2019-11-21|20|
+Game Night 2019 Tokens|tgn2|2019-11-15|3|
+Game Night 2019|gn2|2019-11-15|64|
+Mystery Booster Playtest Cards 2019|cmb1|2019-11-07|121|
+Mystery Booster|mb1|2019-11-07|1697|
+Ponies: The Galloping|ptg|2019-10-22|3|
+Throne of Eldraine Promos|peld|2019-10-04|136|
+Throne of Eldraine|eld|2019-10-04|399|
+Throne of Eldraine Tokens|teld|2019-09-04|20|
+Commander 2019 Oversized|oc19|2019-08-31|4|
+Commander 2019|c19|2019-08-23|302|
+Commander 2019 Tokens|tc19|2019-08-01|29|
+2018 Heroes of the Realm|ph18|2019-08-01|5|
+San Diego Comic-Con 2019|ps19|2019-07-18|5|
+M20 Promo Packs|ppp1|2019-07-12|5|
+Core Set 2020 Promos|pm20|2019-07-12|143|
+Core Set 2020 Tokens|tm20|2019-07-12|12|
+Core Set 2020|m20|2019-07-12|345|
+Signature Spellbook: Gideon|ss2|2019-06-28|8|
+Modern Horizons Promos|pmh1|2019-06-14|2|
+Modern Horizons|mh1|2019-06-14|255|
+Modern Horizons Art Series|amh1|2019-06-05|54|
+Modern Horizons Tokens|tmh1|2019-05-30|21|
+War of the Spark Promos|pwar|2019-05-03|175|
+War of the Spark Tokens|twar|2019-05-03|19|
+War of the Spark|war|2019-05-03|312|
+Judge Gift Cards 2019|j19|2019-04-10|8|
+RNA Ravnica Weekend|prw2|2019-02-16|10|
+RNA Guild Kit|gk2|2019-02-15|133|
+RNA Guild Kit Tokens|tgk2|2019-02-15|9|
+Ravnica Allegiance Promos|prna|2019-01-25|80|
+Ravnica Allegiance Tokens|trna|2019-01-25|13|
+Ravnica Allegiance|rna|2019-01-25|273|
+MagicFest 2019|pf19|2019-01-01|7|
+Planechase Anthology Planes|opca|2018-12-25|86|
+Ultimate Box Topper|puma|2018-12-07|40|
+Ultimate Masters|uma|2018-12-07|254|
+Ultimate Masters Tokens|tuma|2018-12-07|16|
+M19 Gift Pack|g18|2018-11-16|5|
+Game Night|gnt|2018-11-16|68|
+GRN Ravnica Weekend|prwk|2018-11-09|10|
+GRN Guild Kit|gk1|2018-11-02|127|
+GRN Guild Kit Tokens|tgk1|2018-11-02|10|
+Guilds of Ravnica Promos|pgrn|2018-10-05|83|
+Guilds of Ravnica Tokens|tgrn|2018-10-05|8|
+Guilds of Ravnica|grn|2018-10-05|273|
+Mythic Edition Tokens|tmed|2018-10-05|16|
+Mythic Edition|med|2018-10-05|24|
+Commander 2018 Oversized|oc18|2018-08-09|4|
+Commander 2018|c18|2018-08-09|307|
+Commander 2018 Tokens|tc18|2018-08-09|26|
+2017 Heroes of the Realm|ph17|2018-08-01|3|
+San Diego Comic-Con 2018|ps18|2018-07-19|5|
+Arena New Player Experience Extras|xana|2018-07-14|30|
+Arena New Player Experience|ana|2018-07-14|40|
+MTG Arena Promos|pana|2018-07-14|78|
+Arena New Player Experience Cards|oana|2018-07-14|14|
+Core Set 2019 Promos|pm19|2018-07-13|94|
+Core Set 2019 Tokens|tm19|2018-07-13|18|
+M19 Standard Showdown|pss3|2018-07-13|5|
+Core Set 2019|m19|2018-07-13|314|
+Global Series Jiang Yanggu & Mu Yanling|gs1|2018-06-22|41|
+Signature Spellbook: Jace|ss1|2018-06-15|8|
+Battlebond Promos|pbbd|2018-06-08|22|
+Battlebond Tokens|tbbd|2018-06-08|8|
+Commander Anthology Volume II Tokens|tcm2|2018-06-08|19|
+Battlebond|bbd|2018-06-08|256|
+Commander Anthology Volume II|cm2|2018-06-08|312|
+Dominaria Promos|pdom|2018-04-27|118|
+Dominaria|dom|2018-04-27|280|
+Dominaria Tokens|tdom|2018-04-27|16|
+Duel Decks: Elves vs. Inventors Tokens|tddu|2018-04-06|4|
+Duel Decks: Elves vs. Inventors|ddu|2018-04-06|76|
+Masters 25|a25|2018-03-16|249|
+Masters 25 Tokens|ta25|2018-03-16|16|
+Lunar New Year 2018 |plny|2018-02-16|1|
+Nationals Promos|pnat|2018-01-25|1|
+Rivals of Ixalan Tokens|trix|2018-01-19|7|
+Rivals of Ixalan Promos|prix|2018-01-19|97|
+Rivals of Ixalan|rix|2018-01-19|205|
+Judge Gift Cards 2018|j18|2018-01-01|8|
+Friday Night Magic 2018|f18|2017-12-27|3|
+Unstable Promos|pust|2017-12-08|1|
+Unstable Tokens|tust|2017-12-08|20|
+Unstable|ust|2017-12-08|268|
+Iconic Masters Tokens|tima|2017-11-29|7|
+Explorers of Ixalan|e02|2017-11-24|48|
+From the Vault: Transform|v17|2017-11-24|16|
+XLN Treasure Chest|pxtc|2017-11-24|10|
+Iconic Masters|ima|2017-11-17|249|
+Duel Decks: Merfolk vs. Goblins|ddt|2017-10-24|63|
+Duel Decks: Merfolk vs. Goblins Tokens|tddt|2017-10-24|3|
+2017 Gift Pack|g17|2017-10-20|5|
+Ixalan Promos|pxln|2017-09-29|120|
+Ixalan|xln|2017-09-29|289|
+Ixalan Tokens|txln|2017-09-29|11|
+XLN Standard Showdown|pss2|2017-09-29|5|
+HasCon 2017|h17|2017-09-20|4|
+2016 Heroes of the Realm|phtr|2017-09-20|3|
+Archenemy: Nicol Bolas Tokens|te01|2017-09-08|5|
+Commander 2017 Oversized|oc17|2017-08-25|4|
+Commander 2017 Tokens|tc17|2017-08-25|11|
+Commander 2017|c17|2017-08-25|309|
+San Diego Comic-Con 2017|ps17|2017-07-20|6|
+Hour of Devastation Promos|phou|2017-07-14|62|
+Hour of Devastation|hou|2017-07-14|209|
+Hour of Devastation Tokens|thou|2017-07-14|14|
+Archenemy: Nicol Bolas Schemes|oe01|2017-06-16|20|
+Archenemy: Nicol Bolas|e01|2017-06-16|106|
+Commander Anthology Tokens|tcma|2017-06-09|20|
+Commander Anthology|cma|2017-06-09|320|
+Amonkhet Promos|pakh|2017-04-28|76|
+Amonkhet|akh|2017-04-28|287|
+Amonkhet Tokens|takh|2017-04-28|27|
+Amonkhet Invocations|mp2|2017-04-28|54|
+Welcome Deck 2017|w17|2017-04-15|30|
+Duel Decks: Mind vs. Might Tokens|tdds|2017-03-31|7|
+Duel Decks: Mind vs. Might|dds|2017-03-31|65|
+Modern Masters 2017|mm3|2017-03-17|249|
+Modern Masters 2017 Tokens|tmm3|2017-03-17|21|
+Aether Revolt Promos|paer|2017-01-20|65|
+Aether Revolt Tokens|taer|2017-01-20|4|
+Aether Revolt|aer|2017-01-20|197|
+League Tokens 2017|l17|2017-01-01|1|
+Friday Night Magic 2017|f17|2017-01-01|12|
+Judge Gift Cards 2017|j17|2017-01-01|9|
+Planechase Anthology Tokens|tpca|2016-11-25|19|
+Planechase Anthology|pca|2016-11-25|156|
+Treasure Chest|pz2|2016-11-16|282|
+Commander 2016 Oversized|oc16|2016-11-11|5|
+Commander 2016 Tokens|tc16|2016-11-11|21|
+Commander 2016|c16|2016-11-11|351|
+San Diego Comic-Con 2016|ps16|2016-10-01|5|
+Kaladesh Promos|pkld|2016-09-30|82|
+Kaladesh|kld|2016-09-30|278|
+Kaladesh Tokens|tkld|2016-09-30|13|
+Kaladesh Inventions|mps|2016-09-30|54|
+Duel Decks: Nissa vs. Ob Nixilis|ddr|2016-09-02|76|
+Conspiracy: Take the Crown|cn2|2016-08-26|222|
+Conspiracy: Take the Crown Tokens|tcn2|2016-08-26|12|
+From the Vault: Lore|v16|2016-08-19|16|
+Eldritch Moon Promos|pemn|2016-07-22|76|
+Eldritch Moon Tokens|temn|2016-07-22|11|
+Eldritch Moon|emn|2016-07-22|208|
+Eternal Masters|ema|2016-06-10|249|
+Eternal Masters Tokens|tema|2016-06-10|16|
+Shadows over Innistrad Promos|psoi|2016-04-08|90|
+Shadows over Innistrad Tokens|tsoi|2016-04-08|20|
+Welcome Deck 2016|w16|2016-04-08|16|
+Shadows over Innistrad|soi|2016-04-08|302|
+Duel Decks: Blessed vs. Cursed|ddq|2016-02-26|80|
+Oath of the Gatewatch|ogw|2016-01-22|187|
+Oath of the Gatewatch Tokens|togw|2016-01-22|11|
+Oath of the Gatewatch Promos|pogw|2016-01-22|65|
+League Tokens 2016|l16|2016-01-01|1|
+Friday Night Magic 2016|f16|2016-01-01|12|
+Judge Gift Cards 2016|j16|2016-01-01|8|
+Legendary Cube Prize Pack|pz1|2015-11-18|149|
+Commander 2015 Tokens|tc15|2015-11-13|25|
+Commander 2015 Oversized|oc15|2015-11-13|5|
+Commander 2015|c15|2015-11-13|342|
+Battle for Zendikar Promos|pbfz|2015-10-02|89|
+Battle for Zendikar|bfz|2015-10-02|299|
+Battle for Zendikar Tokens|tbfz|2015-10-02|14|
+BFZ Standard Series|pss1|2015-10-02|5|
+Zendikar Expeditions|exp|2015-10-02|45|
+Duel Decks: Zendikar vs. Eldrazi|ddp|2015-08-28|80|
+From the Vault: Angels|v15|2015-08-21|15|
+Magic Origins Clash Pack|cp3|2015-07-17|6|
+Magic Origins Promos|pori|2015-07-17|53|
+Magic Origins|ori|2015-07-17|288|
+Magic Origins Tokens|tori|2015-07-17|15|
+San Diego Comic-Con 2015|ps15|2015-07-09|5|
+Modern Masters 2015 Tokens|tmm2|2015-05-22|16|
+Modern Masters 2015|mm2|2015-05-22|249|
+Tempest Remastered|tpr|2015-05-06|269|
+Tarkir Dragonfury|ptkdf|2015-04-03|4|
+Dragons of Tarkir Promos|pdtk|2015-03-27|51|
+Dragons of Tarkir|dtk|2015-03-27|264|
+Dragons of Tarkir Tokens|tdtk|2015-03-27|8|
+Duel Decks: Elspeth vs. Kiora|ddo|2015-02-27|67|
+Fate Reforged Promos|pfrf|2015-01-23|42|
+Fate Reforged Clash Pack|cp2|2015-01-23|6|
+Fate Reforged Tokens|tfrf|2015-01-23|4|
+Fate Reforged|frf|2015-01-23|191|
+Ugin's Fate|ugin|2015-01-17|26|
+League Tokens 2015|l15|2015-01-01|1|
+Judge Gift Cards 2015|j15|2015-01-01|8|
+Friday Night Magic 2015|f15|2015-01-01|12|
+Duel Decks Anthology: Jace vs. Chandra Tokens|tjvc|2014-12-05|1|
+Duel Decks Anthology: Divine vs. Demonic Tokens|tdvd|2014-12-05|3|
+Duel Decks Anthology: Garruk vs. Liliana Tokens|tgvl|2014-12-05|4|
+Duel Decks Anthology: Jace vs. Chandra|jvc|2014-12-05|62|
+Duel Decks Anthology: Elves vs. Goblins Tokens|tevg|2014-12-05|3|
+Duel Decks Anthology: Garruk vs. Liliana|gvl|2014-12-05|63|
+Duel Decks Anthology: Divine vs. Demonic|dvd|2014-12-05|62|
+Duel Decks Anthology: Elves vs. Goblins|evg|2014-12-05|62|
+Commander 2014 Oversized|oc14|2014-11-07|5|
+Commander 2014|c14|2014-11-07|337|
+Commander 2014 Tokens|tc14|2014-11-07|36|
+Khans of Tarkir Promos|pktk|2014-09-26|56|
+Khans of Tarkir Tokens|tktk|2014-09-26|13|
+Khans of Tarkir|ktk|2014-09-26|269|
+Duel Decks: Speed vs. Cunning|ddn|2014-09-05|82|
+From the Vault: Annihilation|v14|2014-08-22|15|
+Magic 2015 Clash Pack|cp1|2014-07-18|6|
+Magic 2015 Tokens|tm15|2014-07-18|14|
+Magic 2015|m15|2014-07-18|284|
+Magic 2015 Promos|pm15|2014-07-17|13|
+M15 Prerelease Challenge|ppc1|2014-07-12|2|
+San Diego Comic-Con 2014|ps14|2014-07-08|6|
+Vintage Masters|vma|2014-06-16|325|
+Conspiracy Promos|pcns|2014-06-06|1|
+Conspiracy|cns|2014-06-06|210|
+Conspiracy Tokens|tcns|2014-06-06|9|
+Modern Event Deck 2014|md1|2014-05-30|26|
+Modern Event Deck 2014 Tokens|tmd1|2014-05-30|4|
+Defeat a God|tdag|2014-05-25|15|
+Journey into Nyx|jou|2014-05-02|165|
+Journey into Nyx Tokens|tjou|2014-05-02|6|
+Journey into Nyx Hero's Path|thp3|2014-05-02|8|
+Journey into Nyx Promos|pjou|2014-04-26|10|
+Duel Decks: Jace vs. Vraska Tokens|tddm|2014-03-14|1|
+Duel Decks: Jace vs. Vraska|ddm|2014-03-14|88|
+Battle the Horde|tbth|2014-03-01|15|
+Born of the Gods Hero's Path|thp2|2014-02-07|7|
+Born of the Gods|bng|2014-02-07|165|
+Born of the Gods Tokens|tbng|2014-02-07|11|
+Born of the Gods Promos|pbng|2014-02-01|9|
+Duels of the Planeswalkers 2015 Promos |pdp15|2014-01-01|2|
+IDW Comics 2014|pi14|2014-01-01|3|
+League Tokens 2014|l14|2014-01-01|4|
+Friday Night Magic 2014|f14|2014-01-01|12|
+Judge Gift Cards 2014|j14|2014-01-01|14|
+Commander 2013 Oversized|oc13|2013-11-01|15|
+Commander 2013|c13|2013-11-01|356|
+Face the Hydra|tfth|2013-10-19|15|
+Theros Tokens|tths|2013-09-27|11|
+Theros Hero's Path|thp1|2013-09-27|7|
+Theros|ths|2013-09-27|249|
+Theros Promos|pths|2013-09-21|10|
+Duel Decks: Heroes vs. Monsters|ddl|2013-09-06|81|
+Duel Decks: Heroes vs. Monsters Tokens|tddl|2013-09-06|2|
+From the Vault: Twenty|v13|2013-08-23|20|
+Magic 2014 Tokens|tm14|2013-07-19|13|
+Magic 2014|m14|2013-07-19|249|
+Magic 2014 Promos|pm14|2013-07-18|5|
+San Diego Comic-Con 2013|psdc|2013-07-18|5|
+Modern Masters|mma|2013-06-07|229|
+Modern Masters Tokens|tmma|2013-06-07|16|
+Dragon's Maze|dgm|2013-05-03|156|
+Dragon's Maze Tokens|tdgm|2013-05-03|1|
+Dragon's Maze Promos|pdgm|2013-04-27|6|
+World Magic Cup Qualifiers|wmc|2013-04-06|5|
+Duel Decks: Sorin vs. Tibalt Tokens|tddk|2013-03-15|1|
+Duel Decks: Sorin vs. Tibalt|ddk|2013-03-15|80|
+Gatecrash|gtc|2013-02-01|249|
+Gatecrash Tokens|tgtc|2013-02-01|8|
+Gatecrash Promos|pgtc|2013-01-26|9|
+Duels of the Planeswalkers 2014 Promos |pdp14|2013-01-01|3|
+IDW Comics 2013|pi13|2013-01-01|5|
+League Tokens 2013|l13|2013-01-01|4|
+Judge Gift Cards 2013|j13|2013-01-01|9|
+Friday Night Magic 2013|f13|2013-01-01|12|
+Commander's Arsenal Oversized|ocm1|2012-11-02|10|
+Commander's Arsenal|cm1|2012-11-02|18|
+Return to Ravnica|rtr|2012-10-05|274|
+Return to Ravnica Promos|prtr|2012-10-05|10|
+Return to Ravnica Tokens|trtr|2012-10-05|12|
+Duel Decks: Izzet vs. Golgari Tokens|tddj|2012-09-07|1|
+Duel Decks: Izzet vs. Golgari|ddj|2012-09-07|90|
+From the Vault: Realms|v12|2012-08-31|15|
+Magic 2013 Tokens|tm13|2012-07-13|11|
+Magic 2013|m13|2012-07-13|249|
+Magic 2013 Promos|pm13|2012-07-12|5|
+Planechase 2012 Planes|opc2|2012-06-01|40|
+Planechase 2012|pc2|2012-06-01|156|
+Avacyn Restored|avr|2012-05-04|244|
+Avacyn Restored Tokens|tavr|2012-05-04|8|
+Open the Helvault|phel|2012-04-28|6|
+Avacyn Restored Promos|pavr|2012-04-28|5|
+Duel Decks: Venser vs. Koth Tokens|tddi|2012-03-30|2|
+Duel Decks: Venser vs. Koth|ddi|2012-03-30|77|
+Dark Ascension|dka|2012-02-03|158|
+Dark Ascension Tokens|tdka|2012-02-03|4|
+Dark Ascension Promos|pdka|2012-01-28|5|
+IDW Comics 2012|pidw|2012-01-01|9|
+Wizards Play Network 2012|pw12|2012-01-01|3|
+Duels of the Planeswalkers 2013 Promos |pdp13|2012-01-01|3|
+League Tokens 2012|l12|2012-01-01|2|
+Friday Night Magic 2012|f12|2012-01-01|13|
+Judge Gift Cards 2012|j12|2012-01-01|9|
+Premium Deck Series: Graveborn|pd3|2011-11-18|30|
+Innistrad|isd|2011-09-30|264|
+Innistrad Tokens|tisd|2011-09-30|13|
+Innistrad Promos|pisd|2011-09-24|5|
+Duel Decks: Ajani vs. Nicol Bolas Tokens|tddh|2011-09-02|2|
+Duel Decks: Ajani vs. Nicol Bolas|ddh|2011-09-02|80|
+From the Vault: Legends|v11|2011-08-26|15|
+Magic 2012|m12|2011-07-15|249|
+Magic 2012 Tokens|tm12|2011-07-15|7|
+Magic 2012 Promos|pm12|2011-07-14|5|
+Commander 2011 Oversized|ocmd|2011-06-17|15|
+Commander 2011|cmd|2011-06-17|318|
+Commander 2011 Launch Party|pcmd|2011-06-17|5|
+Duel Decks: Mirrodin Pure vs. New Phyrexia|td2|2011-05-14|88|
+New Phyrexia|nph|2011-05-13|175|
+New Phyrexia Tokens|tnph|2011-05-13|5|
+New Phyrexia Promos|pnph|2011-05-12|6|
+Duel Decks: Knights vs. Dragons Tokens|tddg|2011-04-01|1|
+Duel Decks: Knights vs. Dragons|ddg|2011-04-01|81|
+Mirrodin Besieged Tokens|tmbs|2011-02-04|6|
+Mirrodin Besieged|mbs|2011-02-04|155|
+Mirrodin Besieged Promos|pmbs|2011-02-03|6|
+Masters Edition IV|me4|2011-01-10|269|
+Magic Premiere Shop 2011|pmps11|2011-01-01|5|
+Duels of the Planeswalkers 2012 Promos |pdp12|2011-01-01|3|
+Wizards Play Network 2011|pw11|2011-01-01|14|
+Legacy Championship|olgc|2011-01-01|21|
+Friday Night Magic 2011|f11|2011-01-01|12|
+Magic Player Rewards 2011|p11|2011-01-01|5|
+Salvat 2011|ps11|2011-01-01|224|
+Judge Gift Cards 2011|g11|2011-01-01|9|
+Premium Deck Series: Fire and Lightning|pd2|2010-11-19|34|
+Magic Online Theme Decks|td0|2010-11-08|197|
+Scars of Mirrodin|som|2010-10-01|249|
+Scars of Mirrodin Tokens|tsom|2010-10-01|10|
+Scars of Mirrodin Promos|psom|2010-09-30|5|
+Duel Decks: Elspeth vs. Tezzeret Tokens|tddf|2010-09-03|1|
+Duel Decks: Elspeth vs. Tezzeret|ddf|2010-09-03|79|
+From the Vault: Relics|v10|2010-08-27|15|
+Magic 2011|m11|2010-07-16|249|
+Magic 2011 Tokens|tm11|2010-07-16|6|
+Magic 2011 Promos|pm11|2010-07-15|5|
+Archenemy Schemes|oarc|2010-06-18|45|
+Archenemy|arc|2010-06-18|150|
+Promotional Schemes|parc|2010-06-18|5|
+Duels of the Planeswalkers|dpa|2010-06-04|113|
+Rise of the Eldrazi Promos|proe|2010-04-23|6|
+Rise of the Eldrazi|roe|2010-04-23|248|
+Rise of the Eldrazi Tokens|troe|2010-04-23|7|
+Duel Decks: Phyrexia vs. the Coalition|dde|2010-03-19|71|
+Duel Decks: Phyrexia vs. the Coalition Tokens|tdde|2010-03-19|3|
+Worldwake Promos|pwwk|2010-02-05|6|
+Worldwake|wwk|2010-02-05|145|
+Worldwake Tokens|twwk|2010-02-05|6|
+Duels of the Planeswalkers 2010 Promos |pdp10|2010-01-01|2|
+Wizards Play Network 2010|pw10|2010-01-01|10|
+Magic Premiere Shop 2010|pmps10|2010-01-01|5|
+Judge Gift Cards 2010|g10|2010-01-01|8|
+Friday Night Magic 2010|f10|2010-01-01|12|
+Magic Player Rewards 2010|p10|2010-01-01|9|
+Premium Deck Series: Slivers|h09|2009-11-20|41|
+Duel Decks: Garruk vs. Liliana Tokens|tddd|2009-10-30|3|
+Duel Decks: Garruk vs. Liliana|ddd|2009-10-30|63|
+Zendikar Promos|pzen|2009-10-02|5|
+Zendikar|zen|2009-10-02|269|
+Zendikar Tokens|tzen|2009-10-02|11|
+Masters Edition III|me3|2009-09-07|230|
+Planechase Planes|ohop|2009-09-04|40|
+Planechase|hop|2009-09-04|169|
+Promotional Planes|phop|2009-09-04|6|
+From the Vault: Exiled|v09|2009-08-28|15|
+Magic 2010|m10|2009-07-17|249|
+Magic 2010 Tokens|tm10|2009-07-17|8|
+Magic 2010 Promos|pm10|2009-07-16|5|
+Alara Reborn Promos|parb|2009-04-30|2|
+Alara Reborn|arb|2009-04-30|145|
+Alara Reborn Tokens|tarb|2009-04-30|4|
+Duel Decks: Divine vs. Demonic Tokens|tddc|2009-04-10|3|
+Duel Decks: Divine vs. Demonic|ddc|2009-04-10|62|
+URL/Convention Promos|purl|2009-02-08|9|
+Conflux Promos|pcon|2009-02-06|2|
+Conflux Tokens|tcon|2009-02-06|2|
+Conflux|con|2009-02-06|145|
+Miscellaneous Book Promos|pbook|2009-01-27|1|
+Wizards Play Network 2009|pw09|2009-01-01|8|
+Duels of the Planeswalkers 2009 Promos |pdtp|2009-01-01|1|
+Magic Premiere Shop 2009|pmps09|2009-01-01|5|
+Judge Gift Cards 2009|g09|2009-01-01|10|
+Magic Player Rewards 2009|p09|2009-01-01|9|
+Friday Night Magic 2009|f09|2009-01-01|12|
+Duel Decks: Jace vs. Chandra Tokens|tdd2|2008-11-07|1|
+Duel Decks: Jace vs. Chandra|dd2|2008-11-07|64|
+Shards of Alara Promos|pala|2008-10-03|1|
+Shards of Alara Tokens|tala|2008-10-03|10|
+Shards of Alara|ala|2008-10-03|250|
+Wizards Play Network 2008|pwpn|2008-10-01|2|
+Masters Edition II|me2|2008-09-22|245|
+From the Vault: Dragons|drb|2008-08-29|15|
+Eventide Promos|peve|2008-07-25|2|
+Eventide Tokens|teve|2008-07-25|7|
+Eventide|eve|2008-07-25|180|
+Shadowmoor Promos|pshm|2008-05-02|2|
+Shadowmoor Tokens|tshm|2008-05-02|12|
+Shadowmoor|shm|2008-05-02|302|
+15th Anniversary Cards|p15a|2008-04-01|2|
+Morningtide Promos|pmor|2008-02-01|2|
+Morningtide Tokens|tmor|2008-02-01|3|
+Morningtide|mor|2008-02-01|150|
+Magic Premiere Shop 2008|pmps08|2008-01-01|6|
+Gateway 2008|pg08|2008-01-01|8|
+Judge Gift Cards 2008|g08|2008-01-01|5|
+Magic Player Rewards 2008|p08|2008-01-01|7|
+Friday Night Magic 2008|f08|2008-01-01|12|
+Duel Decks: Elves vs. Goblins|dd1|2007-11-16|62|
+Duel Decks: Elves vs. Goblins Tokens|tdd1|2007-11-16|3|
+Lorwyn Promos|plrw|2007-10-12|2|
+Lorwyn Tokens|tlrw|2007-10-12|11|
+Lorwyn|lrw|2007-10-12|301|
+Masters Edition|me1|2007-09-10|195|
+Summer of Magic|psum|2007-07-21|2|
+Tenth Edition|10e|2007-07-13|508|
+Tenth Edition Promos|p10e|2007-07-13|1|
+Tenth Edition Tokens|t10e|2007-07-13|6|
+Future Sight Promos|pfut|2007-05-04|2|
+Future Sight|fut|2007-05-04|180|
+Grand Prix Promos|pgpx|2007-02-24|20|
+Pro Tour Promos|ppro|2007-02-09|36|
+Planar Chaos Promos|pplc|2007-02-02|2|
+Planar Chaos|plc|2007-02-02|165|
+Resale Promos|pres|2007-01-01|37|
+Gateway 2007|pg07|2007-01-01|9|
+Magic Premiere Shop 2007|pmps07|2007-01-01|5|
+Magic Player Rewards 2007|p07|2007-01-01|7|
+Judge Gift Cards 2007|g07|2007-01-01|5|
+Friday Night Magic 2007|f07|2007-01-01|12|
+Happy Holidays|hho|2006-12-31|20|
+Time Spiral Promos|ptsp|2006-10-06|2|
+Time Spiral|tsp|2006-10-06|301|
+Time Spiral Timeshifted|tsb|2006-10-06|121|
+Coldsnap Promos|pcsp|2006-07-21|2|
+Coldsnap Theme Decks|cst|2006-07-21|62|
+Coldsnap|csp|2006-07-21|155|
+Dissension Promos|pdis|2006-05-05|2|
+Dissension|dis|2006-05-05|180|
+Champs and States|pcmp|2006-03-18|12|
+Guildpact Promos|pgpt|2006-02-03|2|
+Guildpact|gpt|2006-02-03|166|
+Arena League 2006|pal06|2006-01-01|9|
+Magic Premiere Shop 2006|pmps06|2006-01-01|5|
+Junior APAC Series|pjas|2006-01-01|6|
+Magic Player Rewards 2006|p06|2006-01-01|7|
+Friday Night Magic 2006|f06|2006-01-01|12|
+Hachette UK|phuk|2006-01-01|60|
+Gateway 2006|pgtw|2006-01-01|3|
+Judge Gift Cards 2006|g06|2006-01-01|4|
+Two-Headed Giant Tournament|p2hg|2005-12-09|1|
+Ravnica: City of Guilds Promos|prav|2005-10-07|2|
+Ravnica: City of Guilds|rav|2005-10-07|306|
+Salvat 2005|psal|2005-08-22|720|
+Ninth Edition Promos|p9ed|2005-07-29|2|
+Ninth Edition|9ed|2005-07-29|359|
+Saviors of Kamigawa Promos|psok|2005-06-03|2|
+Saviors of Kamigawa|sok|2005-06-03|165|
+Betrayers of Kamigawa Promos|pbok|2005-02-04|2|
+Betrayers of Kamigawa|bok|2005-02-04|165|
+Arena League 2005|pal05|2005-01-01|8|
+Magic Premiere Shop 2005|pmps|2005-01-01|20|
+Junior Series Europe|pjse|2005-01-01|8|
+Magic Player Rewards 2005|p05|2005-01-01|6|
+Judge Gift Cards 2005|g05|2005-01-01|4|
+Friday Night Magic 2005|f05|2005-01-01|12|
+Unhinged Promos|punh|2004-11-19|1|
+Unhinged|unh|2004-11-19|168|
+Champions of Kamigawa Promos|pchk|2004-10-01|1|
+Champions of Kamigawa|chk|2004-10-01|307|
+World Championship Decks 2004|wc04|2004-09-01|103|
+Fifth Dawn Promos|p5dn|2004-06-04|1|
+Darksteel Promos|pdst|2004-06-04|1|
+Mirrodin Promos|pmrd|2004-06-04|1|
+Fifth Dawn|5dn|2004-06-04|165|
+Darksteel|dst|2004-02-06|165|
+Arena League 2004|pal04|2004-01-01|14|
+Judge Gift Cards 2004|g04|2004-01-01|6|
+Magic Player Rewards 2004|p04|2004-01-01|6|
+Friday Night Magic 2004|f04|2004-01-01|12|
+Mirrodin|mrd|2003-10-02|306|
+World Championship Decks 2003|wc03|2003-08-06|142|
+Eighth Edition Promos|p8ed|2003-07-28|1|
+Eighth Edition|8ed|2003-07-28|360|
+Scourge Promos|pscg|2003-05-26|1|
+Scourge|scg|2003-05-26|143|
+Onslaught Promos|pons|2003-02-03|1|
+Legions Promos|plgn|2003-02-03|1|
+Legions|lgn|2003-02-03|145|
+Magic Online Avatars|pmoa|2003-01-01|85|
+Japan Junior Tournament|pjjt|2003-01-01|12|
+Arena League 2003|pal03|2003-01-01|8|
+Magic Player Rewards 2003|p03|2003-01-01|7|
+Vintage Championship|ovnt|2003-01-01|29|
+Friday Night Magic 2003|f03|2003-01-01|13|
+Judge Gift Cards 2003|g03|2003-01-01|3|
+Onslaught|ons|2002-10-07|351|
+World Championship Decks 2002|wc02|2002-08-14|153|
+Hobby Japan Promos|phj|2002-07-01|5|
+Magic Online Promos|prm|2002-06-24|3020|
+Judgment Promos|pjud|2002-05-27|1|
+Judgment|jud|2002-05-27|143|
+Torment Promos|ptor|2002-02-04|3|
+Torment|tor|2002-02-04|143|
+Arena League 2002|pal02|2002-01-01|5|
+Magic Player Rewards 2002|pr2|2002-01-01|6|
+Judge Gift Cards 2002|g02|2002-01-01|2|
+Friday Night Magic 2002|f02|2002-01-01|12|
+Deckmasters|dkm|2001-12-01|58|
+Odyssey Promos|pody|2001-10-01|1|
+Odyssey|ody|2001-10-01|352|
+World Championship Decks 2001|wc01|2001-08-08|138|
+Sega Dreamcast Cards|psdg|2001-06-28|10|
+Apocalypse Promos|papc|2001-06-04|1|
+Apocalypse|apc|2001-06-04|143|
+Seventh Edition|7ed|2001-04-11|354|
+Planeshift Promos|ppls|2001-02-05|1|
+Planeshift|pls|2001-02-05|146|
+Arena League 2001|pal01|2001-01-01|12|
+Friday Night Magic 2001|f01|2001-01-01|7|
+Magic Player Rewards 2001|mpr|2001-01-01|8|
+Judge Gift Cards 2001|g01|2001-01-01|2|
+Invasion Promos|pinv|2000-10-02|1|
+Invasion|inv|2000-10-02|352|
+Beatdown Box Set|btd|2000-10-01|90|
+World Championship Decks 2000|wc00|2000-08-02|117|
+Prophecy Promos|ppcy|2000-06-05|1|
+Prophecy|pcy|2000-06-05|144|
+Starter 2000|s00|2000-04-01|20|
+Nemesis Promos|pnem|2000-02-14|1|
+Nemesis|nem|2000-02-14|143|
+European Land Program|pelp|2000-02-05|15|
+Arena League 2000|pal00|2000-01-01|11|
+Judge Gift Cards 2000|g00|2000-01-01|2|
+Friday Night Magic 2000|fnm|2000-01-01|11|
+Junior Super Series|psus|1999-12-01|18|
+Battle Royale Box Set|brb|1999-11-12|136|
+Mercadian Masques Promos|pmmq|1999-10-04|1|
+Mercadian Masques|mmq|1999-10-04|350|
+Wizards of the Coast Online Store|pwos|1999-09-04|1|
+World Championship Promos|pwor|1999-08-04|2|
+World Championship Decks 1999|wc99|1999-08-04|111|
+Guru|pgru|1999-07-12|5|
+Portal Three Kingdoms|ptk|1999-07-06|180|
+Portal: Three Kingdoms Promos|pptk|1999-07-01|2|
+Starter 1999|s99|1999-07-01|173|
+Urza's Destiny Promos|puds|1999-06-07|1|
+Urza's Destiny|uds|1999-06-07|143|
+Classic Sixth Edition|6ed|1999-04-21|351|
+Urza's Legacy Promos|pulg|1999-02-15|2|
+Urza's Legacy|ulg|1999-02-15|143|
+Arena League 1999|pal99|1999-01-01|10|
+Judge Gift Cards 1999|g99|1999-01-01|1|
+Anthologies|ath|1998-11-01|85|
+Urza's Saga Promos|pusg|1998-10-12|1|
+Urza's Saga|usg|1998-10-12|356|
+Asia Pacific Land Program|palp|1998-09-01|15|
+World Championship Decks 1998|wc98|1998-08-12|117|
+Unglued Tokens|tugl|1998-08-11|6|
+Unglued|ugl|1998-08-11|88|
+Portal Second Age|p02|1998-06-24|165|
+Exodus Promos|pexo|1998-06-15|1|
+Exodus|exo|1998-06-15|143|
+Stronghold Promos|psth|1998-03-02|1|
+Stronghold|sth|1998-03-02|143|
+Judge Gift Cards 1998|jgp|1998-01-01|3|
+Tempest Promos|ptmp|1997-10-14|1|
+Tempest|tmp|1997-10-14|350|
+World Championship Decks 1997|wc97|1997-08-13|131|
+Weatherlight|wth|1997-06-09|167|
+Oversized League Prizes|olep|1997-05-30|83|
+Portal|por|1997-05-01|256|
+Vanguard Series|pvan|1997-05-01|32|
+MicroProse Promos|pmic|1997-04-01|1|
+Astral Cards|past|1997-04-01|12|
+Fifth Edition|5ed|1997-03-24|460|
+Visions|vis|1997-02-03|167|
+Introductory Two-Player Set|itp|1996-12-31|67|
+Multiverse Gift Box|mgb|1996-11-01|10|
+Mirage|mir|1996-10-08|351|
+Redemption Program|pred|1996-10-01|1|
+Celebration Cards|pcel|1996-08-14|8|
+Arena League 1996|parl|1996-08-02|7|
+Rivals Quick Start Set|rqs|1996-07-01|65|
+DCI Legend Membership|plgm|1996-07-01|2|
+Alliances|all|1996-06-10|199|
+Pro Tour Collector Set|ptc|1996-05-01|308|
+Oversized 90's Promos|o90p|1996-04-01|10|
+Homelands|hml|1995-10-01|140|
+Renaissance|ren|1995-08-01|122|
+Rinascimento|rin|1995-08-01|69|
+Chronicles|chr|1995-07-01|125|
+Ice Age|ice|1995-06-03|383|
+Fourth Edition Foreign Black Border|4bb|1995-04-01|378|
+Fourth Edition|4ed|1995-04-01|379|
+Media Inserts|pmei|1995-01-01|45|
+Fallen Empires|fem|1994-11-01|187|
+HarperPrism Book Promos|phpr|1994-09-01|5|
+The Dark|drk|1994-08-01|122|
+Dragon Con|pdrc|1994-07-15|1|
+Summer Magic / Edgar|sum|1994-06-21|306|
+Legends|leg|1994-06-01|310|
+Revised Edition|3ed|1994-04-01|306|
+Foreign Black Border|fbb|1994-04-01|307|
+Antiquities|atq|1994-03-04|102|
+Arabian Nights|arn|1993-12-17|92|
+Intl. Collectors’ Edition|cei|1993-12-10|302|
+Collectors’ Edition|ced|1993-12-10|302|
+Unlimited Edition|2ed|1993-12-01|302|
+Limited Edition Beta|leb|1993-10-04|302|
+Limited Edition Alpha|lea|1993-08-05|295|

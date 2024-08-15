@@ -1,0 +1,3 @@
+Set_Name|Set_URL
+Scryfall Sets|https://api.scryfall.com/sets
+Scryfall Cards|https://api.scryfall.com/bulk-data

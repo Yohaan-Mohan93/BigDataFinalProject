@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magic: The Gathering Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Surveil All is a powerful <br> Magic: The Gathering <br> card search</h1>
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="Search..." onkeyup="getSuggestions()" autocomplete="off">
+            <ul id="suggestions" class="suggestions"></ul>
+        </div>
+        <div class="buttons">
+            <button onclick="submitSearch()">Search</button>
+            <button>Advanced Search</button>
+            <button>All Sets</button>
+        </div>
+    </div>
+
+    <form id="search-form" method="POST" action="{{ url_for('search') }}" style="display:none;">
+        <input type="text" name="query" id="search-query">
+    </form>
+
+    <script>
+        function getSuggestions() {
+            const input = document.getElementById('search-input').value;
+            if (input.length > 0) {
+                fetch(`/suggest?query=${input}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        const suggestions = document.getElementById('suggestions');
+                        suggestions.innerHTML = '';
+                        data.forEach(item => {
+                            const li = document.createElement('li');
+                            li.textContent = item;
+                            li.ondblclick = function() {
+                                document.getElementById('search-input').value = item;
+                                suggestions.innerHTML = '';
+                            };
+                            suggestions.appendChild(li);
+                        });
+                    });
+            } else {
+                document.getElementById('suggestions').innerHTML = '';
+            }
+        }
+
+        function submitSearch() {
+            const input = document.getElementById('search-input').value;
+            document.getElementById('search-query').value = input;
+            document.getElementById('search-form').submit();
+        }
+    </script>
+</body>
+</html>

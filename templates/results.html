@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ card.name }} - Magic: The Gathering Card Details</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="card-details">
+            <div class="card-image">
+                <img src="{{ card.image_uri }}" alt="{{ card.name }}">
+            </div>
+            <div class="card-info">
+                <h1>{{ card.name }} <span>{{ card.set_code }}</span></h1>
+                <p><strong>Type:</strong> {{ card.type }}</p>
+                <p><strong>Set:</strong> {{ card.set_name }}</p>
+                <p><strong>Rarity:</strong> {{ card.rarity }}</p>
+                <p><strong>Oracle Text:</strong> {{ card.oracle_text }}</p>
+                <p><strong>Keywords:</strong> {{ card.combined_keywords }}</p>
+                <p><strong>Card Faces:</strong> {{ card.card_faces }}</p>
+                <div class="card-pricing">
+                    <p>CK Price (NM): {{ card.ck_nm_price if card.ck_nm_price else '-' }}</p>
+                    <p>CK Price (EX): {{ card.ck_ex_price if card.ck_ex_price else '-' }}</p>
+                    <p>CK Price (VG): {{ card.ck_vg_price if card.ck_vg_price else '-' }}</p>
+                    <p>CK Price (G): {{ card.ck_g_price if card.ck_g_price else '-' }}</p>
+                    <p><strong>Price (USD):</strong> ${{ card.price_usd }}</p>
+                    <p><strong>Price (EUR):</strong> €{{ card.price_eur }}</p>
+                </div>
+                <p><small><em>Scraped on: {{ card.scrape_date }}</em></small></p>
+            </div>
+        </div>
+        <form id="predict-form" method="POST" action="{{ url_for('predict_price') }}">
+            <input type="hidden" name="card_name" value="{{ card.name }}">
+            <button type="submit">Predict Price for Next Monday</button>
+        </form>
+        <p id="predicted-price"></p>
+        
+    </div>
+    <script>
+        document.getElementById('predict-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData(this);
+            fetch('{{ url_for("predict_price") }}', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.predicted_price) {
+                    document.getElementById('predicted-price').innerText = `Predicted Price: $${data.predicted_price}`;
+                } else {
+                    document.getElementById('predicted-price').innerText = `Error: ${data.error}`;
+                }
+            })
+            .catch(error => {
+                document.getElementById('predicted-price').innerText = 'An error occurred.';
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>

@@ -25,6 +25,15 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+Scripts/
+Include/
+test.py
+model.py
+test.json
+mtg_cards.db
+card_price_models.pkl
+pyvenv.cfg
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
