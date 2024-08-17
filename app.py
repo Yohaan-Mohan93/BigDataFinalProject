@@ -137,5 +137,24 @@ def predict_price():
     else:
         return jsonify({'error': f"No search count found for card: {card_name} in set: {card_set}"})
 
+app.route('/health', methods=['GET'])
+def health_check():
+    """
+    Health check endpoint to monitor the status of the application.
+    Returns:
+        JSON object with a status message.
+    """
+    try:
+        # Perform a simple query to check the database connection
+        with get_db() as conn:
+            conn.execute('SELECT 1')
+
+        # You can also add more checks here (e.g., model loaded, external services available, etc.)
+        return jsonify({"status": "healthy"}), 200
+    except Exception as e:
+        # If an exception occurs, return a failed status
+        return jsonify({"status": "unhealthy", "error": str(e)}), 500
+
+
 if __name__ == '__main__':
     app.run(debug=True)
